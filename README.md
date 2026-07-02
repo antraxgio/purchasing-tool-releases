@@ -1,1 +1,1 @@
-elease binaries for Purchasing Tool
+Release binaries for Purchasing Tool
